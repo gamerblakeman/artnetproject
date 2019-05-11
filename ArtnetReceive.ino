@@ -1,8 +1,4 @@
-/*
-This is a basic example that will print out the header and the content of an ArtDmx packet.
-This example uses the read() function and the different getter functions to read the data.
-This example may be copied under the terms of the MIT license, see the LICENSE file for details
-*/
+
 #include <Conceptinetics.h>
 #include <Artnet.h>
 #include <Ethernet.h>
